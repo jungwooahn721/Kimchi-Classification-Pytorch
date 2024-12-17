@@ -89,12 +89,6 @@ $ tensorboard --logdir saved/log/
 
 ## Examples
 
-### GPU Information
-![GPU Info](assets/examples/GPU_info.png)
-
-### GPU Status
-![GPU Stat](assets/examples/gpustat.png)
-
 ### Tensorboard Visualization
 ![Tensorboard](assets/examples/tensorboard.png)
 

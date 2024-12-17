@@ -6,6 +6,9 @@
 # Fine-grained Image Classification of Korean Food
 
 ## Introduction
+
+Final Project for [MAT3123.01-00] MACHINE LEARNING AND ITS APPLICATIONS (이승철 교수님)
+
 Building a simple neural network to classify the 11 detailed classes of Korean Kimchi
 
 Classes = ['갓김치', '깍두기', '나박김치', '무생채', '배추김치', '백김치', '부추김치', '열무김치', '오이소박이', '총각김치', '파김치']

@@ -40,7 +40,7 @@ $ python test.py -r path/to/ckpt_file.pth
 ```
 $ tensorboard --logdir saved/log/
 ```
-
+<!--
 ## Folder Structure
   ```
   kimchi_classification/
@@ -82,6 +82,7 @@ $ tensorboard --logdir saved/log/
       ├── util.py
       └── ...
   ```
+-->
 
 **Note**: checkpoints contain:
   ```python
